@@ -23,4 +23,4 @@ Vztahy mezi entitami a kardinality:
 
 Ukázky použití databáze:
 
-Na ukázku použití navržené databáze jsem připravil i dvě ukázky použití a to prostřednictvím skriptů na získání různých informací.
+Na ukázku možného použití navržené databáze jsem připravil i dvě ukázky, kdy je prostřednictvím skriptů možné získat konkrétní informace (více v přiloženém souboru s ukázkami).
