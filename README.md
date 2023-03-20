@@ -14,7 +14,7 @@ Přiložené soubory:
 
 Datové typy:
 
-Využíval jsem standardních SQL datových typů, převážně VARCHAR, CHAR, DATE. Pro GPS souřadnice jsem využil datový typ POINT. Jelikož v PostgresSQL nelze použít datový typ ENUM, tak jsem si pro sloupce, kde je výčet možností vytvořil vlastní datové typy. Skriptry pro jejich vytvoření jsou vždy před skriptem CREATE TABLE příslušné tabulky.
+Využíval jsem standardních SQL datových typů, převážně VARCHAR, CHAR, DATE. Pro GPS souřadnice jsem využil datový typ POINT. Jelikož v PostgresSQL nelze použít datový typ ENUM, tak jsem si pro sloupce, kde je výčet možností vytvořil vlastní datové typy. Skripty pro jejich vytvoření jsou vždy před skriptem CREATE TABLE příslušné tabulky.
 
 Vztahy mezi entitami a kardinality:
 
