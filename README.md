@@ -1,4 +1,4 @@
-# Vyberove_rizeni_ukol
+# Úkol - popis řešení
 
 Úkol jsem vytvářel prostřednictvím databázového systému PostgresSQL a programu DBeaver.
 
