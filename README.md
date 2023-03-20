@@ -10,6 +10,7 @@ Přiložené soubory:
 - DDL skripty_vytvoření tabulek
 - DML skripty_vkládání záznamů
 - DML skripty_ukázky použití databáze
+- Úkol - fiktivní data
 
 Datové typy:
 
@@ -26,6 +27,8 @@ DML skripty vkládání záznamů:
 Zde jsem u tabulek 'bank_account' a 'payment_transaction' udělal skript se dvěma záznamy. Chtěl jsem ukázat rozdíly ve vkládaných záznamech a to ve smyslu že:
 - u tabulky 'bank_account' jsem vložil záznam se zřízeným kontokorentem a bez zřízeného kontokorentu.
 - u tabulky 'payment_transaction' jsem vložil záznam transakce s platbou online a pak s platbou na terminálu obchodníka.
+
+Pozn. přikládám i tabulku s fiktivními daty, které jsem pro skripty použil.
 
 Ukázky použití databáze:
 
