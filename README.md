@@ -1,6 +1,7 @@
 # Vyberove_rizeni_ukol
 
 Úkol jsem vytvářel prostřednictvím databázového systému PostgresSQL a programu DBeaver.
+
 Navrhuji databázi, která se skládá ze čtyř tabulek: client, bank_account, payment_card a payment_transaction. Tabulky jsem vytvořil pomocí standardních DDL skriptů.
 
 Přiložené soubory:
